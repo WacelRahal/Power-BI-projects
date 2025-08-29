@@ -43,7 +43,7 @@
 ---
 
 ## 📊 Dashboard 3: Performance Tracker
-![Performance Tracker Dashboard](./HR-Analytics/Performance Tracker.png)
+![Performance Tracker Dashboard](./HR-Analytics/Performance_Tracker.png)
 - **Employee Performance Example:**  
   - Self-rating declined ~50% (2020–2022).  
   - Job satisfaction fell to 2/5—attrition risk.  
