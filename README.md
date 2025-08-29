@@ -11,5 +11,8 @@ Feel free to explore each project folder to see detailed dashboards and document
 A comprehensive Power BI solution for HR data, featuring Overview, Demographics, Performance Tracker, and Attrition dashboards.
 
 ---
+### [Customer Churn Analysis](./Customer-Churn/README.md)
+A Power BI dashboard analyzing customer retention, churn risk, and actionable strategies.
 
+---
 More projects coming soon!
