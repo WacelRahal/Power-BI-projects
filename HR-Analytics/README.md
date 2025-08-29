@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Dashboard 1: Overview
-![Overview Dashboard](./HR-Analytics/Overview.png)
+![Overview Dashboard](./Overview.png)
 - **Workforce Health:**  
   - Total employees: 1,470  
   - Active: 1,233  
