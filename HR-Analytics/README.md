@@ -28,7 +28,7 @@
 ---
 
 ## 📊 Dashboard 2: Demographics
-![Demographics Dashboard](./HR-Analytics/Demographics.png)
+![Demographics Dashboard](./Demographics.png)
 - **Age Diversity:**  
   - Majority (60%+) are aged 30–40s—experienced, stable workforce.
 - **Marital Status:**  
@@ -43,7 +43,7 @@
 ---
 
 ## 📊 Dashboard 3: Performance Tracker
-![Performance Tracker Dashboard](./HR-Analytics/Performance_Tracker.png)
+![Performance Tracker Dashboard](./Performance_Tracker.png)
 - **Employee Performance Example:**  
   - Self-rating declined ~50% (2020–2022).  
   - Job satisfaction fell to 2/5—attrition risk.  
@@ -57,7 +57,7 @@
 ---
 
 ## 📊 Dashboard 4: Attrition
-![Attrition Dashboard](./HR-Analytics/Attrition.png)
+![Attrition Dashboard](./Attrition.png)
 - **Critical Risk Roles:**  
   - Some roles experience up to 60% attrition.
 - **Overtime Effect:**  
