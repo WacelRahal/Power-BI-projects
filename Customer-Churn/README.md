@@ -15,7 +15,7 @@ This Power BI project delivers a comprehensive, data-driven analysis of customer
 The analysis is based on a public telecom customer churn dataset. The data was cleaned, transformed, and modeled in Power BI to build a robust analytical foundation.
 
 **Kaggle Dataset Source:**  
-[Insert Your Kaggle Dataset Link Here]
+[(https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn)]
 
 ---
 
