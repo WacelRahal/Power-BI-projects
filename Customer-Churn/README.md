@@ -30,7 +30,7 @@ Provides an executive summary of churn, highlighting critical metrics and primar
 - **High-Risk Tenure:** 0–12 month customers churn at >40%, indicating onboarding/service issues.
 - **Contract Shield:** Month-to-Month contracts have much higher churn than annual contracts—commitment is a key retention factor.
 
-![Overview Dashboard](./overview-dashboard.png)
+![Overview Dashboard](./Overvieww.png)
 
 ---
 
@@ -42,7 +42,7 @@ Segments the customer base by demographics to pinpoint high-risk profiles.
 - **Customer Composition:** 25% Senior Citizens, 36% Partners—requires tailored communications.
 - **Gender Analysis:** Gender-based churn rates can inform retention messaging.
 
-![Demographics Dashboard](./demographics-dashboard.png)
+![Demographics Dashboard](./Demographicss.png)
 
 ---
 
@@ -55,7 +55,7 @@ Translates churn into financial loss, answering “How much is churn costing us?
 - **High-Value Loss:** Customers in the 19–24 month tenure bracket cost over $570K—losing established customers is costly.
 - **Paperless Billing Paradox:** 24% churn for paperless billing customers vs. 8% for others.
 
-![Financial Impact Dashboard](./financial-impact-dashboard.png)
+![Financial Impact Dashboard](./Financial_Impact.png)
 
 ---
 
@@ -79,13 +79,7 @@ Provides a granular view of churn by segmenting customers based on service subsc
 - **Geographic Clusters**
   - Mapping reveals regional churn hotspots, linked to local market competition, network quality, or effectiveness of support teams.
 
-**Strategic Recommendations:**
-- **Targeted Fiber Fix:** Launch a “Fiber Optic Customer Health” initiative—proactive network checks, dedicated support, and revised pricing for high-churn, high-value segment.
-- **Promote Auto-Pay & Paperless:** Campaigns to migrate customers from Electronic Check to Automatic Payment, incentivizing enrollment for long-term loyalty.
-- **Strategic Bundling:** Offer discounted bundles to encourage single-service customers to add more products, reducing churn risk.
-- **Regional Action Plans:** Empower regional managers with data to develop localized churn mitigation strategies.
-
-![Customer Segmentation Dashboard](./customer-segmentation-dashboard.png)
+![Customer Segmentation Dashboard](./Customer_Segmentation.png)
 
 ---
 
@@ -99,7 +93,7 @@ Provides a granular view of churn by segmenting customers based on service subsc
 - Promote migration to long-term contracts with incentives.
 - Develop segmented retention offers for high-risk demographics and churn reasons.
 - Invest in support training focused on empathy and customer care.
-
+- **Promote Auto-Pay & Paperless:** Campaigns to migrate customers from Electronic Check to Automatic Payment, incentivizing enrollment for long-term loyalty.
 ---
 
 ## 🛠️ Tools & Technologies
